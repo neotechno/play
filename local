@@ -1,0 +1,13 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="twitter.com",Ayu 01
+https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/snArxWJ8iAyAtsunSRUjVly5HFtuxGZoXd5EKiLZGEdOlhfP7C5wxlrUK_Ve9nNHrgxi8yVFuBjy0glDmC8-zA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16738896849540528380.m3u8?type=replay
+
+#EXTINF:-1 group-title="twitter.com",Ayu 02
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/pPvufFk5PlD1UCQxwPWDfVZNguPI8WyE5ND2D7R2Dzy8MvA_JSR1L5LaeXKXxYm5l2fB7XdjBjaaqhtk0OVHzA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16738991426896765255.m3u8?type=replay
+
+#EXTINF:-1 group-title="twitter.com",Ayu 03
+https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/tDsR0l5EYMSJA6T42-yrkH8Io6ym7OHgifyHnnoNdk-l_19HFNQPVaSvU-sf7VYmdBZ92JJF9rNOkhZnxZEh-w/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16738998077183755064.m3u8?type=replay
+
+#EXTINF:-1 group-title="twitter.com",Ayu 04
+https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/Q_w25TvKO8aKQtwcPR1Apdj3V7VoVwMZmCaCglGGM8StRk0M4KuP4M5dZSbWGOPI-DS047KUCy-4cXAwETuKsg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16738304159829546483.m3u8?type=replay
