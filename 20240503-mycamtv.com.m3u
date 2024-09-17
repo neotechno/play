@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="MYCAMTV.COM", fanhua-6
+https://edge-hls.doppiocdn.live/hls/111164412/master/111164412_auto.m3u8
+
+#EXTINF:-1 group-title="MYCAMTV.COM", AR-Yoko
+https://edge-hls.doppiocdn.live/hls/147658258/master/147658258_auto.m3u8

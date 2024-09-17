@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 group-title="Twitter.com",Anggita 01
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/Zu4YAvrtWSBZSbY2S7B5j3YsFX4mgT_PQegP2NFYcbG3XNNIph9L3cgHF_PXsZGxpONKMSjZYnTrCXFye1ttpQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16720160099990587704.m3u8?type=replay
+
 #EXTINF:-1 group-title="Twitter.com",Ayu 05
 https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/KOth08yvCzO7hnbOLrwBltxa_i-vQhZKDaj_wt4e-mFTBzo29-5kOVB33Hl1kOpteYFE4o_VheW0iQ9TcZniRg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16738114556774216297.m3u8?type=replay
 
